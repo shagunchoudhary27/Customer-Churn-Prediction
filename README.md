@@ -9,17 +9,17 @@ This project predicts whether a customer will leave the bank or stay.
 📁 Project Structure
 ----
 Customer-Churn-Prediction/
-│
-├── data.csv
-├── dataset.py
-├── preprocessing.py
-├── train_model.py
-├── predict.py
-├── main.py
-├── app.py
-├── model.pkl
-├── requirements.txt
-└── README.md
+-│
+-├── data.csv
+-├── dataset.py
+-├── preprocessing.py
+-├── train_model.py
+-├── predict.py
+-├── main.py
+-├── app.py
+-├── model.pkl
+-├── requirements.txt
+-└── README.md
 
 ---
  📌 File Description
