@@ -6,20 +6,20 @@ Customer churn is one of the biggest challenges for banks and subscription-based
 This project predicts whether a customer will leave the bank or stay.
 
 ----
-📁 Project Structure
+
+📁 Project Files
 ----
-Customer-Churn-Prediction/
--│
--├── data.csv
--├── dataset.py
--├── preprocessing.py
--├── train_model.py
--├── predict.py
--├── main.py
--├── app.py
--├── model.pkl
--├── requirements.txt
--└── README.md
+Customer-Churn-Prediction
+--
+data.csv
+dataset.py
+preprocessing.py
+train_model.py
+predict.py
+main.py
+app.py
+requirements.txt
+README.md
 
 ---
  📌 File Description
