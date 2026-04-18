@@ -13,7 +13,7 @@ The project includes:
 
 ---
 
- 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 Customer-Churn-Prediction/
@@ -29,7 +29,7 @@ Customer-Churn-Prediction/
 ├── train_model.py
 └── model.pkl
 
-📌 File Description
+##📌 File Description
 | File Name        | Description                          |
 | ---------------- | ------------------------------------ |
 | README.md        | Project documentation                |
@@ -43,7 +43,7 @@ Customer-Churn-Prediction/
 | train_model.py   | Trains machine learning model        |
 | model.pkl        | Saved trained model                  |
 
-⚙️ Features
+##⚙️ Features
 Predicts whether customer will churn or stay
 Uses Logistic Regression model
 Simple Flask web deployment
@@ -51,7 +51,7 @@ Beginner-friendly project
 Ready for GitHub portfolio
 
  /
-🖥️ How to Run the Project
+##🖥️ How to Run the Project
 1️⃣ Install Required Libraries
 pip install -r requirements.txt
 2️⃣ Check Dataset
@@ -67,7 +67,7 @@ python app.py
 7️⃣ Open in Browser
 http://127.0.0.1:5000/
 
-🧠 Technologies Used
+##🧠 Technologies Used
 
 * Python  
 * Pandas  
@@ -77,13 +77,13 @@ http://127.0.0.1:5000/
 * Joblib  
  
 
-🌐 Deployment
+##🌐 Deployment
 This project can be deployed using:
 PythonAnywhere
 Render
 Railway
 
-🙌 Conclusion
+##🙌 Conclusion
 
 This project demonstrates a complete machine learning workflow from data preprocessing to deployment. It is useful for learning and real-world business churn prediction.
 
