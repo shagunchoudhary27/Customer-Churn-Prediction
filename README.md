@@ -16,7 +16,7 @@ The project includes:
 ## 📁 Project Structure
 
 ```text
-Customer-Churn-Prediction/
+*Customer-Churn-Prediction/
 │
 ├── README.md
 ├── app.py
