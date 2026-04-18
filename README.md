@@ -50,7 +50,7 @@ python app.py
  
  
  ----
-##🙌 Conclusion
+🙌 Conclusion
 ---
 This project demonstrates a complete machine learning workflow from data preprocessing to deployment. It is useful for learning and real-world business churn prediction.
 
