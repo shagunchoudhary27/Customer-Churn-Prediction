@@ -7,21 +7,6 @@ This project predicts whether a customer will leave the bank or stay.
 
 ----
 
-📁 Project Files
-----
-Customer-Churn-Prediction
---
-data.csv
-dataset.py
-preprocessing.py
-train_model.py
-predict.py
-main.py
-app.py
-requirements.txt
-README.md
-
----
  📌 File Description
  ---
  | File Name          | Purpose                              |
